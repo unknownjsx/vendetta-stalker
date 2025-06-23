@@ -21,7 +21,18 @@ const buildPlugin = async () => {
             format: "iife",
             globalName: "RevengeStalker",
             outfile: "dist/index.js",
-            external: ["react", "react-native"],
+            external: [
+                "react", 
+                "react-native",
+                "@vendetta/*",
+                "@vendetta/metro",
+                "@vendetta/metro/*",
+                "@vendetta/plugin",
+                "@vendetta/storage",
+                "@vendetta/ui",
+                "@vendetta/ui/*",
+                "@vendetta/utils"
+            ],
             define: {
                 "process.env.NODE_ENV": '"production"'
             },
