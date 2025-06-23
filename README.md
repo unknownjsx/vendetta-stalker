@@ -1,6 +1,6 @@
 # RevengeStalker
 
-A Revenge/Vendetta/Bunny plugin that allows you to check users and get notifications when they perform various actions.
+A Revenge/Vendetta/Bunny plugin that allows you to stalk users and get notifications when they perform various actions.
 
 ## What is this?
 

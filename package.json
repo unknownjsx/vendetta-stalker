@@ -22,12 +22,5 @@
     "chokidar": "^3.5.0",
     "esbuild": "^0.19.0",
     "typescript": "^5.0.0"
-  },
-  "dependencies": {
-    "@vendetta/metro": "^0.1.0",
-    "@vendetta/plugin": "^0.1.0",
-    "@vendetta/storage": "^0.1.0",
-    "@vendetta/ui": "^0.1.0",
-    "@vendetta/utils": "^0.1.0"
   }
 } 
